@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (1b_1.vcxproj, 1b_2.vcxproj, 1b_3.vcxproj, 1b_4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  1b_5.c
+c:\users\user\documents\visual studio 2015\projects\1b\1b_5\1b_1\1b_5.c(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\user\documents\visual studio 2015\projects\1b\1b_5\1b_1\1b_5.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  1b_1.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\1b\1b_5\Debug\1b_5.exe
+  1b_1.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\1b\1b_5\Debug\1b_5.pdb (Full PDB)

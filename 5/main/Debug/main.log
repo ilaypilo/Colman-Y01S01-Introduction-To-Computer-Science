@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\user\documents\visual studio 2015\projects\5\5\main\main.c(100): warning C4013: 'strcmp' undefined; assuming extern returning int
+c:\users\user\documents\visual studio 2015\projects\5\5\main\main.c(229): warning C4101: 'result': unreferenced local variable
+c:\users\user\documents\visual studio 2015\projects\5\5\main\main.c(229): warning C4101: 'i': unreferenced local variable
+c:\users\user\documents\visual studio 2015\projects\5\5\main\main.c(280): warning C4101: 'j': unreferenced local variable
+  main.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\5\5\Debug\main.exe
+  main.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\5\5\Debug\main.pdb (Full PDB)

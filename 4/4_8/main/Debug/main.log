@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\user\documents\visual studio 2015\projects\4\4_8\main\main.c(13): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\user\documents\visual studio 2015\projects\4\4_8\main\main.c(10): warning C4101: 'letter': unreferenced local variable
+  main.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\4\4_8\Debug\main.exe
+  main.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\4\4_8\Debug\main.pdb (Full PDB)

@@ -1,0 +1,9 @@
+﻿  2_5.c
+c:\users\user\documents\visual studio 2015\projects\2\2_5\2\2_5.c(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\user\documents\visual studio 2015\projects\2\2_5\2\2_5.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\user\documents\visual studio 2015\projects\2\2_5\2\2_5.c(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  2.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\2\2_5\Debug\2.exe
+  2.vcxproj -> C:\Users\USER\Documents\Visual Studio 2015\Projects\2\2_5\Debug\2.pdb (Full PDB)
